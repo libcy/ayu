@@ -432,12 +432,17 @@
   // Close Icon
     "layer0.texture": "ayu-mod/assets/close.png",
     "layer0.tint": [102, 115, 128],
-    "layer0.opacity": 1.0,
+    "layer0.opacity": 0,
 
   // Dirty Icon
     "layer1.texture": "ayu-mod/assets/dirty.png",
     "layer1.tint": [102, 115, 128],
     "layer1.opacity": 0,
+  },
+  {
+      "class": "tab_close_button",
+      "parents": [{"class": "tab_control", "attributes": ["hover"]}],
+      "layer0.opacity": { "target": 1.0, "speed": 10, "interpolation": "smoothstep" }
   },
 
   // Default

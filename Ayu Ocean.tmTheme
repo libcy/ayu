@@ -60,7 +60,9 @@ a {
 				<key>selectionBorder</key>
 				<string>#2C3D4E</string>
 				<key>shadow</key>
-				<string>#00000010</string>
+				<string>#00000000</string>
+                <key>shadowWidth</key>
+                <string>1</string>
 				<key>stackGuide</key>
 				<string>#363E4A</string>
 			</dict>
