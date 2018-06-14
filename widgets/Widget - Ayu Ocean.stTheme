@@ -12,28 +12,28 @@
   <key>name</key>
   <string>ayu</string>
   <key>semanticClass</key>
-  <string>ayu."{theme}"</string>
+  <string>ayu.ocean</string>
   <key>settings</key>
   <array>
     <dict>
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>"{ui.panel.bg.hex}"</string>
+        <string>#262C38</string>
         <key>caret</key>
-        <string>"{common.accent.hex}"</string>
+        <string>#FFCC66</string>
         <key>foreground</key>
-        <string>"{common.fg.hex}"</string>
+        <string>#CCC9C2</string>
         <key>invisibles</key>
-        <string>"{editor.gutter.hex}"</string>
+        <string>#39424E</string>
         <key>lineHighlight</key>
-        <string>"{editor.line.hex}"</string>
+        <string>#1C222C</string>
         <key>inactiveSelection</key>
-        <string>"{editor.selection.inactive.hex}"</string>
+        <string>#283543</string>
         <key>selection</key>
-        <string>"{editor.selection.bg.hex}"</string>
+        <string>#293847</string>
         <key>selectionBorder</key>
-        <string>"{editor.selection.border.hex}"</string>
+        <string>#2C3D4E</string>
       </dict>
     </dict>
     <dict>
@@ -46,7 +46,7 @@
         <key>fontStyle</key>
         <string>italic</string>
         <key>foreground</key>
-        <string>"{syntax.comment.hex}"</string>
+        <string>#5C6773</string>
       </dict>
     </dict>
     <dict>
@@ -57,7 +57,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>"{syntax.keyword.hex}"</string>
+        <string>#FFA759</string>
       </dict>
     </dict>
     <dict>
@@ -68,7 +68,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>"{syntax.constant.hex}"</string>
+        <string>#D4BFFF</string>
       </dict>
     </dict>
     <dict>
@@ -79,7 +79,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>"{syntax.string.hex}"</string>
+        <string>#BAE67E</string>
       </dict>
     </dict>
     <dict>
@@ -90,7 +90,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>"{syntax.regexp.hex}"</string>
+        <string>#95E6CB</string>
       </dict>
     </dict>
   </array>
