@@ -77,7 +77,7 @@
    */
   {
     "class": "popup_control",
-    "layer0.tint": [38, 44, 56],
+    "layer0.tint": [37, 40, 48],
     "layer0.opacity": 1.0,
     "content_margin": [0, 0]
   },
@@ -85,7 +85,7 @@
   {
     "class": "auto_complete",
     "row_padding": [12, 6],
-    "layer0.tint": [38, 44, 56],
+    "layer0.tint": [37, 40, 48],
     "layer0.opacity": 1.0
   },
 
@@ -148,7 +148,7 @@
     "layer2.texture": "ayu-mod/assets/overlay-bg.png",
     "layer2.inner_margin": [15, 35, 15, 25],
     "layer2.opacity": 1.0,
-    "layer2.tint": [38, 44, 56],
+    "layer2.tint": [37, 40, 48],
 
     "content_margin": [10, 35, 10, 20]
   },
@@ -167,7 +167,7 @@
   {
     "class": "mini_quick_panel_row",
     "attributes": ["selected"],
-    "layer0.tint": [33, 37, 43]
+    "layer0.tint": [30, 34, 40]
   },
 
   // Quick panel project setting (project manager) (cmd + ctrl + p)
@@ -175,7 +175,7 @@
   {
     "class": "quick_panel",
     "row_padding": [32, 12],
-    "layer0.tint": [38, 44, 56],
+    "layer0.tint": [37, 40, 48],
     "layer0.opacity": 1.0
   },
 
@@ -184,7 +184,7 @@
   {
     "class": "quick_panel_row",
     "layer0.texture": "",
-    "layer0.tint": [38, 44, 56],
+    "layer0.tint": [37, 40, 48],
     "layer0.inner_margin": 0,
     "layer0.opacity": 1.0
   },
@@ -194,7 +194,7 @@
   {
     "class": "quick_panel_row",
     "parents": [{"class": "overlay_control"}],
-    "layer0.tint": [38, 44, 56],
+    "layer0.tint": [37, 40, 48],
     "layer0.opacity": 1.0
   },
 
@@ -203,7 +203,7 @@
     "class": "quick_panel",
     "parents": [{"class": "overlay_control"}],
     "row_padding": [24, 8],
-    "layer0.tint": [38, 44, 56],
+    "layer0.tint": [37, 40, 48],
     "layer0.opacity": 1.0
   },
 
@@ -322,7 +322,7 @@
   // Hovered current tab
   {
     "class": "tab_control", "attributes": ["hover"],
-    // "layer0.tint": [38, 44, 56, 70]
+    // "layer0.tint": [37, 40, 48, 70]
   },
 
   // Selected current tab
@@ -527,7 +527,7 @@
   {
     "class": "tree_row",
     "layer0.texture": "ayu-mod/assets/tree-highlight-separators.png",
-    "layer0.tint": [26, 31, 41],
+    "layer0.tint": [26, 30, 36],
     "layer0.inner_margin": [8, 4, 8, 4],
     "layer0.opacity": 0
   },
@@ -780,7 +780,7 @@
   {
     "class": "scroll_bar_control",
     "parents": [{"class": "overlay_control"}],
-    "layer0.tint": [38, 44, 56],
+    "layer0.tint": [37, 40, 48],
     "blur": false
   },
   {
@@ -986,7 +986,7 @@
     "layer0.texture": "ayu-mod/assets/input-bg.png",
     "layer0.opacity": 1,
     "layer0.inner_margin": [10, 8],
-    "layer0.tint": [38, 44, 56],
+    "layer0.tint": [37, 40, 48],
 
     "layer1.texture": "ayu-mod/assets/input-border.png",
     "layer1.opacity": 1,
