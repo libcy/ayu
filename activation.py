@@ -6,7 +6,7 @@ import functools
 
 NO_SELECTION = -1
 PREFERENCES = 'Preferences.sublime-settings'
-THEMES = [ 'Ayu Ocean', 'Ayu Space' ]
+THEMES = [ 'Ayu Adapta', 'Ayu Ocean', 'Ayu Space' ]
 
 
 def get_color_scheme():
