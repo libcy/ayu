@@ -267,7 +267,11 @@
     "layer1.opacity": 1,
     "layer1.texture": "ayu-mod/assets/separator-bottom.png",
     "layer1.tint": [26, 31, 41],
-    "layer1.inner_margin": [1, 0, 1, 2]
+    "layer1.inner_margin": [1, 0, 1, 2],
+    "layer2.opacity": 1,
+    "layer2.texture": "ayu-mod/assets/separator-top.png",
+    "layer2.tint": [26, 31, 41],
+    "layer2.inner_margin": [0, 1, 1, 2]
   },
   {
     "class": "tabset_control",
